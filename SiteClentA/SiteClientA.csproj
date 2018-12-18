@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\SiteServer\Core\Helpers\ComputeHashHelper.cs" Link="Core\Helpers\ComputeHashHelper.cs" />
+    <Compile Include="..\SiteServer\Core\Model\AuthRedirectToSiteRequesModel.cs" Link="Core\Model\AuthRedirectToSiteRequesModel.cs" />
+    <Compile Include="..\SiteServer\Core\Model\AuthRedirectToSiteResponseModel.cs" Link="Core\Model\AuthRedirectToSiteResponseModel.cs" />
+    <Compile Include="..\SiteServer\Core\Model\BaseResponseModel.cs" Link="Core\Model\BaseResponseModel.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+</Project>

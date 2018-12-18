@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@using SiteClient.Core.Model
+@model LoginModel
+
+
+@using (Html.BeginForm("Login","Account",FormMethod.Post))
+{
+    <h2>Login</h2>
+    <p>
+        <span>账号：</span>@Html.TextBoxFor(x => x.UserName)
+    </p>
+    <p>
+        <span>密码：</span>@Html.TextBoxFor(x => x.PassWord)
+    </p>
+    <p>
+        <input type="submit" />
+    </p>
+}
