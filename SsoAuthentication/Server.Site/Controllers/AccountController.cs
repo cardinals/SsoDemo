@@ -29,6 +29,10 @@ namespace Server.Site.Controllers
         [HttpGet]
         public IActionResult Login(string returnUrl)
         {
+
+            AuthMappingCallBackResponseModel aa = new AuthMappingCallBackResponseModel();
+            Type t = aa.GetType();
+
             if (loginHelper.IsLogin(HttpContext))
             {
                 return RedirectToAction("Index", "Home");

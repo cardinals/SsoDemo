@@ -1,0 +1,9 @@
+F:\Work\Others\code\SsoDemoProject\SsoAuthentication\Server.Core\bin\Debug\netstandard2.0\Server.Core.deps.json
+F:\Work\Others\code\SsoDemoProject\SsoAuthentication\Server.Core\bin\Debug\netstandard2.0\Server.Core.dll
+F:\Work\Others\code\SsoDemoProject\SsoAuthentication\Server.Core\bin\Debug\netstandard2.0\Server.Core.pdb
+F:\Work\Others\code\SsoDemoProject\SsoAuthentication\Server.Core\obj\Debug\netstandard2.0\Server.Core.csprojResolveAssemblyReference.cache
+F:\Work\Others\code\SsoDemoProject\SsoAuthentication\Server.Core\obj\Debug\netstandard2.0\Server.Core.csproj.CoreCompileInputs.cache
+F:\Work\Others\code\SsoDemoProject\SsoAuthentication\Server.Core\obj\Debug\netstandard2.0\Server.Core.AssemblyInfoInputs.cache
+F:\Work\Others\code\SsoDemoProject\SsoAuthentication\Server.Core\obj\Debug\netstandard2.0\Server.Core.AssemblyInfo.cs
+F:\Work\Others\code\SsoDemoProject\SsoAuthentication\Server.Core\obj\Debug\netstandard2.0\Server.Core.dll
+F:\Work\Others\code\SsoDemoProject\SsoAuthentication\Server.Core\obj\Debug\netstandard2.0\Server.Core.pdb
